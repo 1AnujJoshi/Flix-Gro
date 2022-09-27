@@ -1,5 +1,5 @@
 # Flix-Gro - a simple backend for a Grocery store.
-# Complete node application with routes, controllers and models.
+## Complete node application with routes, controllers and models.
 # Tech Stack:
 * MongoDB
 * Express
